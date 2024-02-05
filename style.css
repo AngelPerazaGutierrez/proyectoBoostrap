@@ -3,4 +3,30 @@
     padding: 0;
     box-sizing: border-box;
 }
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
 
+.login{
+    font-family: poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: center;
+    background-color: transparent;
+    border: none;
+    color:#FD8D3A;
+    padding: 16px 45px;
+
+}
+
+.signup{
+    font-family:poppins; 
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: center;
+    background-color: #FD8D3A;
+    border: none;
+    color: #fff;
+    padding: 15px 40px;
+    border-radius: 5px;
+}
