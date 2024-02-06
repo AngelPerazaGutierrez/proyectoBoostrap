@@ -35,3 +35,137 @@ justify-content: center;
     padding: 15px 40px;
     border-radius: 5px;
 }
+
+.journey{
+    color: #FA8234;
+    margin-top: 30px;
+}
+.img-tourist{
+    
+
+	border-bottom-left-radius: 50% 100%;
+	border-bottom-right-radius: 50% 100%;
+	width: 50px;
+    height: 40%;
+    background-color: #ec6206;
+}
+.box1{
+padding:50px;
+
+}
+
+.t1{
+ font-size:65px;
+ text-align: left;
+ display: block; 
+ 
+}
+
+.p1{
+    color: rgb(102, 105, 109);
+    font-size: 23px;
+    text-align: left;
+    padding-top: 45px;
+}
+
+.t2{
+    background-color: white;
+    box-shadow: 10px;
+    margin-bottom: 10%;
+    padding: 3%;
+    border-radius: 10px;
+    box-shadow: 0px 0px 40px 0px rgba(51, 50, 50, 0.2);
+}
+
+.boton-disc{
+   
+    height: 100%;
+    width: 40%;
+    margin-top: 50px;  
+    font-size: 20px !important;
+}
+.icon{
+    
+width: 20px;
+
+}
+
+.section-2{
+    background-color: #FAFEFF;
+}
+
+.boton-exp{
+    background-color: #ec6206 !important;
+    font-size: 20px;
+}
+
+.t3{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 15%;
+}
+
+.p2{
+    color: rgb(102, 105, 109);
+    font-size: 20px;
+    text-align: center;
+   
+}
+.card-t{
+    font-size: 25px;
+    text-align: left;
+    padding-bottom: 5%;
+    padding-top: 15%;
+}
+
+.p3{
+    color: rgb(102, 105, 109);
+    font-size: 17px;
+    text-align: left; 
+    
+}
+
+.container-card{
+    margin-top: 20%;
+    margin-bottom: 25%;
+    padding: 8%;
+    box-shadow: 0px 0px 40px 0px rgba(51, 50, 50, 0.2) ;
+}
+
+.star{
+    height: 17px;
+    margin-bottom: 11%;
+}
+
+.text-container-card{
+    font-size: 17px;
+}
+.title-card{
+    text-align: left;
+    font-size: 28px;
+}
+
+.p-card{
+    font-size: 20px;
+
+}
+
+.p-spain{
+    text-align: left;
+}
+
+.p-del{
+    color: gray;
+    text-align: right;
+}
+
+.p4{
+    background-color: #f7d2ba;
+    color: #ec6206;
+    border-radius: 8px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
