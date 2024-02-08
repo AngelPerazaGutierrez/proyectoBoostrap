@@ -170,3 +170,17 @@ width: 20px;
     
 }
 
+#prueba {
+    background-color: #ffa365;
+    text-align: center;
+    color: #fff;
+}
+
+#boton-suscribe {
+    background-color: #ffbc90;
+    border: none;
+    border-radius: 1%;
+    text-align: center;
+    color: #fff;
+}
+
