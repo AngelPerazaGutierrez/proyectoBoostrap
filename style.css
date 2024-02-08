@@ -170,10 +170,13 @@ width: 20px;
     
 }
 
+
 #prueba {
     background-color: #ffa365;
     text-align: center;
     color: #fff;
+    align-items: center;
+    
 }
 
 #boton-suscribe {
@@ -183,4 +186,5 @@ width: 20px;
     text-align: center;
     color: #fff;
 }
+
 
