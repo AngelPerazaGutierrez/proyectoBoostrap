@@ -172,6 +172,7 @@ width: 20px;
 }
 
 
+
 .container-card-2{
     box-shadow: 0px 0px 40px 0px rgba(51, 50, 50, 0.2);
     
@@ -224,6 +225,21 @@ width: 20px;
    
 }
 
-.card-testimonial{
-    border: none !important;
+
+
+
+#prueba {
+    background-color: #ffa365;
+    text-align: center;
+    color: #fff;
 }
+
+#boton-suscribe {
+    background-color: #ffbc90;
+    border: none;
+    border-radius: 1%;
+    text-align: center;
+    color: #fff;
+}
+
+
