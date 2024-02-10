@@ -8,6 +8,7 @@
 .menu{
 width: 100%;
 justify-content: center;
+
 }
 
 .login{
@@ -299,6 +300,7 @@ width: 20px;
 .container-img{
 margin-top: 5%;
 margin-bottom: 15%;
+}
 
 /*propiedades de footer*/
 
