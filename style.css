@@ -227,33 +227,21 @@ width: 20px;
 }
 
 
+/*propiedades de footer*/
 
-
-#prueba {
-    background-color: #ffa365;
-    text-align: center;
-    color: #fff;
-    align-items: center;
-    
-}
-
-#boton-suscribe {
-    background-color: #ffbc90;
-    border: none;
-    border-radius: 1%;
-    text-align: center;
-    color: #fff;
-}
-
-#columna {
+#tarjeta-footer {
     background-color: #f56931;
     color: #f7d2ba;
 }
 
-#button-addon2 {
-    background-color: #f56931;
-    
-       
+#boton-suscribe {
+    background-color: #f56931;  
 }
 
+[href] {
+    text-decoration: none;
+    color: gray;  
+    
+}
 
+/*#llamar por id, [llamar por propiedades], .etiqueta llama por etiqueta*/
