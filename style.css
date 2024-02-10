@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
 
@@ -240,8 +241,29 @@ width: 20px;
 
 [href] {
     text-decoration: none;
-    color: gray;  
-    
+    color: gray; 
 }
 
-/*#llamar por id, [llamar por propiedades], .etiqueta llama por etiqueta*/
+.imagenes-redes  {
+    position: relative;
+    z-index: 1;
+    height: 2em;
+    width: 2em;
+    padding: 3px;
+    border-radius: 30%;
+    float: left ;
+        
+}
+
+.borde-flotante {
+    float: left;
+    margin: 1px;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.5);
+    z-index: -1;
+}
+
+/*.fondo {
+    background-color: #ec6206;
+}*/
+
+/*#llamar por id, [llamar por propiedades], .clase llama por class*/
