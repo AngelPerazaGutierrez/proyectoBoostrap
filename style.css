@@ -300,6 +300,7 @@ width: 20px;
 margin-top: 5%;
 margin-bottom: 15%;
 
+<<<<<<< HEAD
 }
 
 .img-p{
@@ -315,22 +316,23 @@ margin-bottom: 15%;
     font-size: 15;
     color: #a8a8a8;
 }
+=======
+/*propiedades de footer*/
+>>>>>>> f65f8442580d061097453bb45197d11d8cffe4ba
 
-
-#prueba {
-    background-color: #ffa365;
-    text-align: center;
-    color: #fff;
-    align-items: center;
-    
+#tarjeta-footer {
+    background-color: #f56931;
+    color: #f7d2ba;
 }
 
 #boton-suscribe {
-    background-color: #ffbc90;
-    border: none;
-    border-radius: 1%;
-    text-align: center;
-    color: #fff;
+    background-color: #f56931;  
 }
 
+[href] {
+    text-decoration: none;
+    color: gray;  
+    
+}
 
+/*#llamar por id, [llamar por propiedades], .etiqueta llama por etiqueta*/
