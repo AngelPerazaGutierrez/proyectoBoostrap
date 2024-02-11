@@ -311,9 +311,12 @@ margin-bottom: 15%;
 
 /*propiedades de footer*/
 
-#tarjeta-footer {
-    background-color: #f56931;
-    color: #f7d2ba;
+.text-footer {   
+    font-weight: bolder;
+    color: #FFFF;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 2rem;
 }
 
 #boton-suscribe {
@@ -326,6 +329,8 @@ margin-bottom: 15%;
 }
 
 #tarjeta-footer {
+    background-color: #f56931;
+    color: #f7d2ba;
     position: relative;
     height: 416px;
     width: 1170px;
