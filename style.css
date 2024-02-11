@@ -2,12 +2,20 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
-@import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('https://fonts.googleapis.com/css?family=Poppins:400,700,900') format('truetype');
+    /* Agrega otros formatos si es necesario (e.g., woff, woff2) */
+}
 
 .menu{
 width: 100%;
 justify-content: center;
+font-family: Poppins;
+
 }
 
 .login{
@@ -317,22 +325,74 @@ margin-bottom: 15%;
     color: #a8a8a8;
 }
 
+
+
+
+
 /*propiedades de footer*/
+footer {
+    background-color: #F7F8FC;
+    width: 100%;
 
 
-#tarjeta-footer {
-    background-color: #f56931;
-    color: #f7d2ba;
 }
 
-#boton-suscribe {
-    background-color: #f56931;  
+.container-footer {
+    position: relative;
+    background-color: #2ba851;
+}
+
+.text-footer {   
+    font-weight: bolder;
+    color: #FFFF;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 2rem;
 }
 
 [href] {
     text-decoration: none;
-    color: gray;  
+    color: gray; 
+}
+
+#tarjeta-footer {
+    background-color: #f56931;
+    color: #f7d2ba;
+    position: relative;
+    height: 416px;
+    width: 1170px;
+    font-family: 'volcof';
+    font-weight: bold;
     
 }
 
-/*#llamar por id, [llamar por propiedades], .etiqueta llama por etiqueta*/
+#vector {
+    position: absolute;
+    top: 5px;
+    right: 0px;
+
+}
+
+#vector2 {
+    position: absolute;
+    top: 30px;
+    right: 50px;    
+}
+
+#suscribesvc {
+    position: absolute;
+    z-index: 1;
+
+}
+#elemnt-footer{
+    position: absolute;
+    z-index: 1;
+    left: -10px;
+    top: -153px;
+} 
+
+#instagram {
+    width: 60px;
+    height: 60px;
+}
+
