@@ -316,6 +316,11 @@ footer {
 
 }
 
+.container-footer {
+    position: relative;
+    background-color: #2ba851;
+}
+
 .text-footer {   
     font-weight: bolder;
     color: #FFFF;
@@ -355,7 +360,7 @@ footer {
 
 #suscribesvc {
     position: absolute;
-    z-index: auto;
+    z-index: 1;
 
 }
 #elemnt-footer{
