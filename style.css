@@ -325,27 +325,42 @@ margin-bottom: 15%;
     color: gray; 
 }
 
-.imagenes-redes  {
+#tarjeta-footer {
     position: relative;
+    height: 416px;
+    width: 1170px;
+    font-family: 'volcof';
+    font-weight: bold;
+    
+}
+
+#vector {
+    position: absolute;
+    top: 5px;
+    right: 0px;
+
+}
+
+#vector2 {
+    position: absolute;
+    top: 30px;
+    right: 50px;    
+}
+
+#suscribesvc {
+    position: absolute;
+    z-index: auto;
+
+}
+#elemnt-footer{
+    position: absolute;
     z-index: 1;
-    height: 2em;
-    width: 2em;
-    padding: 3px;
-    border-radius: 30%;
-    float: left ;
-        
+    left: -10px;
+    top: -153px;
+} 
+
+#instagram {
+    width: 60px;
+    height: 60px;
 }
 
-.borde-flotante {
-    float: left;
-    margin: 1px;
-    box-shadow: 0 0 3px rgba(0, 0, 0, 0.5);
-    z-index: -1;
-}
-
-/*.fondo {
-    background-color: #ec6206;
-}*/
-
-/*#llamar por id, [llamar por propiedades], .clase llama por class*/
-/*#llamar por id, [llamar por propiedades], .etiqueta llama por etiqueta*/
