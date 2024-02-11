@@ -310,6 +310,11 @@ margin-bottom: 15%;
 }
 
 /*propiedades de footer*/
+footer {
+    background-color: #F7F8FC;
+    width: 100%;
+
+}
 
 .text-footer {   
     font-weight: bolder;
@@ -317,10 +322,6 @@ margin-bottom: 15%;
     font-size: 50px;
     text-align: center;
     margin-top: 2rem;
-}
-
-#boton-suscribe {
-    background-color: #f56931;  
 }
 
 [href] {
