@@ -7,9 +7,10 @@
 
 @font-face {
     font-family: 'Poppins';
-    src: url('https://fonts.googleapis.com/css?family=Poppins:400,700,900') format('truetype');
+    src:url('https://fonts.googleapis.com/css?family=Poppins:400,700,900') format('truetype');
     /* Agrega otros formatos si es necesario (e.g., woff, woff2) */
 }
+
 
 .menu{
 width: 100%;
@@ -42,6 +43,22 @@ font-family: Poppins;
     color: #fff;
     padding: 15px 40px;
     border-radius: 5px;
+}
+
+ul li:hover a{
+    color: rgba(0, 0, 0, 0.733);
+    cursor: pointer;
+    
+}
+
+.login:hover{
+    cursor: pointer;
+    background-color: #f7d2ba;
+}
+
+.signup:hover{
+    cursor: pointer;
+    background-color: #f7d2ba;
 }
 
 .container-1{
