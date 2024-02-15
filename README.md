@@ -1,10 +1,10 @@
 This is the first landing page, created by, 
 
-Yeison Velásquez 
+***Yeison Velásquez*** 
 
-Angel Peraza 
+***Angel Peraza***
 
-Juliana Medina 
+***Juliana Medina*** 
 
 
 tag number 1.0 just front-end
