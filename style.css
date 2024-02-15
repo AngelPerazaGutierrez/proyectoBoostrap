@@ -400,6 +400,7 @@ footer {
     width: 1170px;
     font-family: 'volcof';
     font-weight: bold;
+    position:relative  !important;
     
 }
 
