@@ -1,4 +1,5 @@
-This is the first landing page, created by,
+This is the first landing page, created by, 
+
 Yeison Velásquez 
 
 Angel Peraza 
