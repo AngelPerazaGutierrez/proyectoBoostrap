@@ -11,6 +11,9 @@
     /* Agrega otros formatos si es necesario (e.g., woff, woff2) */
 }
 
+.header {
+    background-color: #0d2894;
+}
 
 .menu{
 width: 100%;
@@ -267,17 +270,12 @@ width: 20px;
     padding-top: 2%;
     padding-bottom: 2%;
     padding-left: 0px;
-    padding-right: 0px;
-    
+    padding-right: 0px;    
 }
-
-
-
 
 .container-card-2{
     box-shadow: 0px 0px 40px 0px rgba(51, 50, 50, 0.2);
     
-
 }
 
 .container-card-3{
@@ -361,15 +359,16 @@ margin-bottom: 15%;
     color: #a8a8a8;
 }
 
-
-
-
-
 /*propiedades de footer*/
 footer {
-    background-color: #F7F8FC;
+    
     width: 100%;
+    position: absolute;
+}
 
+.suscribe-footer{
+    position: relative;
+    top: -5rem;
 
 }
 
